@@ -73,24 +73,27 @@ namespace Task_C_MySQL
                 {
                     cmd = new MySqlCommand($"select count(*) from {tableName};", connEx);
                     int recordCount = Convert.ToInt32(cmd.ExecuteScalar());
-                    for (int i = 0; i < recordCount; i++)
+                    if (recordCount != 0)
                     {
-                        await Task.Run(() =>
+                        for (int i = 0; i < recordCount; i++)
                         {
-                            cmd = new MySqlCommand($"select id from {tableName} limit @i, 1;", connEx);
-                            cmd.Parameters.Add("@i", MySqlDbType.Int32).Value = i;
-                            int id = Convert.ToInt32(cmd.ExecuteScalar());
-                            Random rand = new Random();
-                            cmd = new MySqlCommand($"update {tableName} set speed=@rand where id=@id;", connEx);
-                            cmd.Parameters.Add("@rand", MySqlDbType.Int32).Value = Math.Abs(rand.Next() * DateTime.Now.Millisecond) % 110;
-                            cmd.Parameters.Add("@id", MySqlDbType.Int32).Value = id;
-                            cmd.ExecuteNonQuery();
-                        });
+                            await Task.Run(() =>
+                            {
+                                cmd = new MySqlCommand($"select id from {tableName} limit @i, 1;", connEx);
+                                cmd.Parameters.Add("@i", MySqlDbType.Int32).Value = i;
+                                int id = Convert.ToInt32(cmd.ExecuteScalar());
+                                Random rand = new Random();
+                                cmd = new MySqlCommand($"update {tableName} set speed=@rand where id=@id;", connEx);
+                                cmd.Parameters.Add("@rand", MySqlDbType.Int32).Value = Math.Abs(rand.Next() * DateTime.Now.Millisecond) % 110;
+                                cmd.Parameters.Add("@id", MySqlDbType.Int32).Value = id;
+                                cmd.ExecuteNonQuery();
+                            });
+                        }
+                        MySqlDataAdapter ms_data = new MySqlDataAdapter($"select * from {tableName};", connEx);
+                        table = new System.Data.DataTable();
+                        ms_data.Fill(table);
+                        dataGridView1.DataSource = table;
                     }
-                    MySqlDataAdapter ms_data = new MySqlDataAdapter($"select * from {tableName};", connEx);
-                    table = new System.Data.DataTable();
-                    ms_data.Fill(table);
-                    dataGridView1.DataSource = table;
                 }
                 catch (Exception ex) { MessageBox.Show(ex.Message, "Regular update error", MessageBoxButtons.OK, MessageBoxIcon.Error); connEx.Close(); }
             }
