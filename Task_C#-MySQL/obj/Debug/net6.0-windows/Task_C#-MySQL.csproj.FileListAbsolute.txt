@@ -1,0 +1,99 @@
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.exe
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.deps.json
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.runtimeconfig.json
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.pdb
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C_MySQL.Form1.resources
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.GenerateResource.cache
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.CopyComplete
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\refint\Task_C#-MySQL.dll
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.pdb
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.genruntimeconfig.cache
+C:\Users\Maksim\source\repos\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\ref\Task_C#-MySQL.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.exe
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.deps.json
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.runtimeconfig.json
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.pdb
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.AssemblyReference.cache
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C_MySQL.Form1.resources
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.GenerateResource.cache
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.AssemblyInfoInputs.cache
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.AssemblyInfo.cs
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.CopyComplete
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\refint\Task_C#-MySQL.dll
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.pdb
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.genruntimeconfig.cache
+C:\Users\Maksim\Downloads\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\ref\Task_C#-MySQL.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.exe
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.deps.json
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.runtimeconfig.json
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Task_C#-MySQL.pdb
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C_MySQL.Form1.resources
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.GenerateResource.cache
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.AssemblyInfoInputs.cache
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.AssemblyInfo.cs
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.csproj.CopyComplete
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\refint\Task_C#-MySQL.dll
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.pdb
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\Task_C#-MySQL.genruntimeconfig.cache
+C:\Users\Maksim\Desktop\Универ\Опять mysql на тест\Новая папка\Task_C#-MySQL\Task_C#-MySQL\obj\Debug\net6.0-windows\ref\Task_C#-MySQL.dll
